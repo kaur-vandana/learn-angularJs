@@ -1,0 +1,24 @@
+{
+  "name": "ng-classified",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaur-vandana/learn-angularJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaur-vandana/learn-angularJs/issues"
+  },
+  "homepage": "https://github.com/kaur-vandana/learn-angularJs#readme",
+  "dependencies": {
+    "angular": "^1.8.3",
+    "angular-material": "^1.2.5",
+    "mdi": "^2.2.43"
+  }
+}
